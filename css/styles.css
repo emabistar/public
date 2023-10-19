@@ -33,8 +33,9 @@ Colors:
 body,
 p {
     color: #6b747b;
-    font: 400 1rem/1.625rem "Open Sans", sans-serif;
+    font: 400 1rem/1.625rem "Helvetica Neue ", sans-serif;
 }
+
 
 h1 {
     color: #252c38;
@@ -176,6 +177,7 @@ h6 {
 .btn-solid-lg.primary {
     border: 1px solid hsl(121, 81%, 59%)!important;
     background-color: hsl(132, 81%, 59%)!important;
+
 }
 
 .btn-solid-lg.primary:hover {
